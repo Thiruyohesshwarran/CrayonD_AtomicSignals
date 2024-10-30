@@ -1,0 +1,17 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: "Poppins";
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-display: swap;
+  src: url('./fonts/Poppins-Regular.ttf') format('woff2'); /* Path updation to your Poppins font file */
+  unicode-range: U+0000-00FF; /* You can adjust this unicode range */
+}
+
+
+
+
